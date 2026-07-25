@@ -24,3 +24,7 @@ Aseguramiento de la Calidad del Software
 ## Captura 2 - Reporte HTML de Playwright
 
 ![Reporte HTML](/reporte_html.png)
+
+## Reflexion clase02
+
+- 📄 [Reflexión: Auto-wait vs. sleep()](REFLEXION.md)
